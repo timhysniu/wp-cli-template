@@ -1,6 +1,6 @@
 
 {
-    "name": "timhysniu/wp-template",
+    "name": "timhysniu/wp-cli-template",
     "description": "Find, list and update templates for WP-CLI",
     "homepage": "https://github.com/timhysniu/wp-cli-template",
     "license": "MIT",
