@@ -1,5 +1,6 @@
 <?php
 /**
+ * @author Tim Hysniu
  * Find template usage and update page templates
  */
 class Template_Command extends WP_CLI_Command {
@@ -17,6 +18,9 @@ class Template_Command extends WP_CLI_Command {
      *
      * [--grep]
      * : filter by string pattern
+     *
+     * [--format]
+     * : table, csv, json
      *
      * ## EXAMPLES
      *
